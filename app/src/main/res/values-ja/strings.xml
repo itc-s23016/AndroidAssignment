@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">アンドロイド課題</string>
+    <string name="fetch_image">犬の画像を取得</string>
+    <string name="image_description">ランダムな犬の画像</string>
+</resources>

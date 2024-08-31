@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidAssignment</string>
+    <string name="fetch_image">Fetch Dog Image</string>
+    <string name="image_description">A random dog image</string>
+</resources>
